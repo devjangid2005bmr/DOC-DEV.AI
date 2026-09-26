@@ -11,6 +11,8 @@ Simply upload a PDF and let AI analyze the document to generate meaningful insig
 ## 🚀 Demo
 
 ![DOC-DEV.AI Demo](assets/docdevai.png)
+![DOC-DEV.AI Demo](assets/docdevai2.png)
+![DOC-DEV.AI Demo](assets/docdevai3.png)
 ![DOC-DEV.AI Demo](assets/image.png)
 ---
 
